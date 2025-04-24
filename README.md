@@ -1,6 +1,6 @@
 # Hello World! 🌍
 
-Welcome to my GitHub profile! I'm [Your Name], a passionate **full-stack developer** and an all-around **tech enthusiast**. I thrive on building innovative solutions that make life easier and more enjoyable for users.
+Welcome to my GitHub profile! I'm **Best Igbekele**, a passionate **full-stack developer** and an all-around **tech enthusiast**. I thrive on building innovative solutions that make life easier and more enjoyable for users.
 
 ## 🚀 About Me
 
@@ -25,7 +25,7 @@ I’m proud to have worked on several exciting projects! Check them out:
 
 ## 📚 Always Learning
 
-I’m a firm believer in lifelong learning. Currently, I'm diving into [new technology or topic you’re exploring], and I can’t wait to apply it in my future projects! 
+I’m a firm believer in lifelong learning. Currently, I'm diving into Robotics and Machine learning, and I can’t wait to apply it in my future projects! 
 
 ## 🤝 Let's Connect!
 
