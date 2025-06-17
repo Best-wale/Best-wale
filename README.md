@@ -11,7 +11,7 @@ When I’m not coding, you can find me exploring the latest tech trends, experim
 ## 💻 Tech Stack
 
 Here’s a glimpse of the technologies I love working with:
-- **Front-End**: HTML, CSS, JavaScript, React, Vue.js
+- **Front-End**: HTML, CSS, JavaScript, React
 - **Back-End**: Node.js, Express, Python, Django
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **Tools**: Git, Docker
