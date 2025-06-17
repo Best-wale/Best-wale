@@ -19,9 +19,9 @@ Here’s a glimpse of the technologies I love working with:
 ## 🌟 Projects
 
 I’m proud to have worked on several exciting projects! Check them out:
-- [Project 1](link-to-your-project): A web app that does XYZ and makes life easier.
-- [Project 2](link-to-your-project): An interactive platform that connects people with similar interests.
-- [Project 3](link-to-your-project): A personal project where I explore [describe the project briefly].
+- [ShopEase](https://best-wale.github.io/Ecommerce_website/): A web app that does XYZ and makes life easier.
+- [RoyalTix](https://bestwale.pythonanywhere.com/RoyalTix/): An interactive platform that connects people with similar interests.
+- [b.weather](https://bestxigbekele.github.io/WEATHER-APP/): A personal project where I explore [describe the project briefly].
 
 ## 📚 Always Learning
 
@@ -32,7 +32,7 @@ I’m a firm believer in lifelong learning. Currently, I'm diving into Robotics 
 I love collaborating with fellow developers and tech enthusiasts. Feel free to reach out if you want to chat about tech, share ideas, or collaborate on a project!
 
 - [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
-- Email: [your-email@example.com]
+- [Twitter](https://x.com/BestWale368637)
+- Email: [bestigbekele5@gmail.com]
 
 Thanks for stopping by! Let’s build something amazing together! 🚀
