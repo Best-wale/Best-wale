@@ -19,7 +19,7 @@ Here’s a glimpse of the technologies I love working with:
 ## 🌟 Projects
 
 I’m proud to have worked on several exciting projects! Check them out:
-- [ShopEase](https://best-wale.github.io/Ecommerce_website/): A web app that does XYZ and makes life easier.
+- [ShopEase](https://best-wale.github.io/Ecommerce_website/): A web app one-stop shop for the best deals on electronics, clothing, home essentials, and more. We bring convenience and quality to your shopping experience and makes life easier.
 - [RoyalTix](https://bestwale.pythonanywhere.com/RoyalTix/): An interactive platform that connects people with similar interests.
 - [b.weather](https://bestxigbekele.github.io/WEATHER-APP/): A personal project where I explore [describe the project briefly].
 
