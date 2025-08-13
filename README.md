@@ -32,7 +32,7 @@ I’m a firm believer in lifelong learning. Currently, I'm diving into Robotics 
 
 I love collaborating with fellow developers and tech enthusiasts. Feel free to reach out if you want to chat about tech, share ideas, or collaborate on a project!
 
-- [LinkedIn](your-linkedin-url)
+- [LinkedIn](https://www.linkedin.com/in/best-igbekele-561a64313/)
 - [Twitter](https://x.com/BestWale368637)
 - Email: [bestigbekele5@gmail.com]
 
